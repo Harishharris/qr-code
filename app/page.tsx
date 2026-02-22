@@ -287,7 +287,7 @@ export default function Home() {
           </div>
         </div>
         <div className="border-t border-gold/20 pt-8 text-center text-xs font-light">
-          <p>&copy; 2026 Luxe Garments. All rights reserved.</p>
+          <p>&copy; All rights reserved.</p>
         </div>
       </footer>
     </div>
