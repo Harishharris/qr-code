@@ -128,9 +128,9 @@ export default function Home() {
                 Pragathi Nagar Road, Hyderabad
               </h4>
               <p className="text-charcoal/70 font-light mb-6 leading-relaxed">
-                Visit our flagship boutique located in the heart of Paris, where
-                tradition meets contemporary design. Experience our curated
-                collection in an environment of refined elegance.
+                Visit our flagship boutique located in the heart of Hyderabad,
+                where tradition meets contemporary design. Experience our
+                curated collection in an environment of refined elegance.
               </p>
               <div className="space-y-4 text-sm font-light">
                 <p className="text-charcoal">
