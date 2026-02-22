@@ -269,18 +269,30 @@ export default function Home() {
             <p className="text-sm font-light tracking-widest mb-4">FOLLOW</p>
             <div className="space-y-2 text-sm font-light">
               <p>
-                <a href="#" className="hover:text-gold transition-colors">
+                <a
+                  href="https://www.instagram.com/srisaisujacollections?igsh=ZTBsdTkydmgxMmR3"
+                  className="hover:text-gold transition-colors"
+                  target="_blank"
+                >
                   Instagram
                 </a>
               </p>
               <p>
-                <a href="#" className="hover:text-gold transition-colors">
+                <a
+                  href="https://www.facebook.com/share/16zko657vV/"
+                  className="hover:text-gold transition-colors"
+                  target="_blank"
+                >
                   Facebook
                 </a>
               </p>
               <p>
-                <a href="#" className="hover:text-gold transition-colors">
-                  Twitter
+                <a
+                  href="https://youtube.com/@srisaisujacollections?si=x8s28eW-Nr0IAKrC"
+                  className="hover:text-gold transition-colors"
+                  target="_blank"
+                >
+                  Youtube
                 </a>
               </p>
             </div>
